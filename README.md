@@ -52,7 +52,7 @@ field | type | description | constraint |
 |Fsalary|double|实发工资|not null|
 
 # 运行截图
-![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/main/screenshot/登录窗口.png)
-![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/main/screenshot/主界面.png)
-![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/main/screenshot/使用菜单.png)
-![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/main/screenshot/查询.png)
+![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/master/screenshot/登录窗口.png)
+![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/master/screenshot/主界面.png)
+![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/master/screenshot/使用菜单.png)
+![image](https://github.com/KangJ227/EmployeeManagedSystem/blob/master/screenshot/查询.png)
